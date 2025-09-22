@@ -1,0 +1,4 @@
+Name : Jyothi Kottapalli
+Roll.No : 237104071
+Section : B.Sc Artificial Intelligence
+GitHub is a web-based platform that uses Git, a version control system, to help developers manage and track changes in their code.
